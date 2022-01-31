@@ -17,7 +17,7 @@ const cryptoWallets = [
  {
   symbol: 'Ko-fi', 
   name: 'via Ko-fi',
-  address: 'https://ko-fi.com/hvncproject', 
+  address: 'https://ko-fi.com/projecthvnc', 
  }, 
  {
   symbol: 'Monero', 
